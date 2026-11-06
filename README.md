@@ -28,7 +28,3 @@ Un tableau de bord en 4 pages sur le classement quotidien Spotify Top 50 monde (
 ## Sources
 
 Ce dépôt est une **vitrine** : il présente le projet et ses résultats. Les sources (projet Power BI, requêtes, scripts, notebook, données) ne sont pas publiées. Pour en discuter, me contacter via mon profil GitHub.
-
-## Crédits
-
-Le cahier des charges et le design (fonds, icônes) viennent d'un tutoriel Power BI sur Spotify. J'ai construit le modèle, les mesures, le lecteur, les signets et le générateur de rapport. Le projet a été construit avec l'aide de Claude.
